@@ -1,0 +1,4 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\Entidades\obj\Debug\Entidades.pdb
